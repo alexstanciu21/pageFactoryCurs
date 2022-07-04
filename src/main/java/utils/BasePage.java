@@ -21,7 +21,6 @@ public class BasePage extends BaseTest {
 	public EventsPage eventPage = new EventsPage(driver); 
 	public SingleEventPage singleEventPage = new SingleEventPage(driver); 
 	public PageFormatsPage formatsPage = new PageFormatsPage(driver); 
-	
 	public AudioPostPage audioPostPage = new AudioPostPage(driver); 
 
 	
